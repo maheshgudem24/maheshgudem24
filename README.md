@@ -1,5 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mahesh G</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/JeanElsner/dm_robotics_panda/main/.github/img/logo.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshgudem24&label=Profile%20views&color=0e75b6&style=flat" alt="maheshgudem24" /> </p>
 
